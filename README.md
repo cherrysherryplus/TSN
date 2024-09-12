@@ -6,6 +6,10 @@ Three main contributions are attributed for TSN's outstanding tracking performan
 - Center Attention Module (**CAM**): Suppress background distractions and highlight object region for consistent tracking.
 - Dynamic Positive sample Definition Strategy (**DPDS**): Adjust positive sampling area subject to scale variation in the training stage for better convergence.
 
-The implementation is based on PySOT and SiamCAR. Questions about environment creation, testing and et. al, can be firstly referred to their official repositories and blogs, which we have found them helpful enough. Corresponding checkpoints and result text files of TSN on different benchmarks will be uploaded. Codes of network definition and benchmark evaluation will be available soon. 
+The implementation is based on PySOT and SiamCAR. Questions about environment creation, testing and et. al, can be firstly referred to their official repositories and blogs, which we have found them helpful enough. Corresponding result files of TSN on different benchmarks have been uploaded. Codes of network definition and benchmark evaluation, together with related checkpoint and hyper-params, will be available soon. 
+
+| Result text files | Others |
+| --- | --- |
+| [百度网盘](https://pan.baidu.com/s/1UxK5qs9LSUMzgVcm3cSBhQ?pwd=chgr) | ~ |
 
 Since related paper has been submitted for peer review, codes will be fulfilled once the paper is accepeted.
