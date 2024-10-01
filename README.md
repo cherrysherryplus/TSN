@@ -14,6 +14,17 @@ The implementation is based on PySOT and SiamCAR. Questions about environment cr
 
 Some visualization of TSN along with Ground Truth annotations are provided. Since UAV20L and VisDrone2019 are too long to be visulaized due to their long-term tracking scenes, we only display tracking results of relatively-short videos from the other 3 datasets.
 
-<video src="vis_results/DTB70/Animal2" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+#### Results on _Animal2_ and _SpeedCar2_ in **DTB70** (Bounding boxes in blue are predicted ones)
+https://github.com/user-attachments/assets/85a1fafa-f1e8-4460-b56f-89cc96d3cf37
+
+https://github.com/user-attachments/assets/0989d45d-ece1-43c6-be3a-70cd8884604e
+
+#### Results on _car16_ in **LaTOT**
+https://github.com/user-attachments/assets/d1e8edf1-12cf-4e5a-90d6-3a9a1aa5ebe8
+
+#### Results on _person14_3_ and _wakeboard7_ in **UAV123@10fps**
+https://github.com/user-attachments/assets/31788942-cb11-43a7-b061-128f3ca02dd5
+
+https://github.com/user-attachments/assets/c0752d31-98ae-4800-9f91-5fc01b4f20a7
 
 Since related paper has been submitted for peer review, codes will be fulfilled once the paper is accepeted.
