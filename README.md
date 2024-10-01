@@ -19,8 +19,10 @@ https://github.com/user-attachments/assets/85a1fafa-f1e8-4460-b56f-89cc96d3cf37
 
 https://github.com/user-attachments/assets/0989d45d-ece1-43c6-be3a-70cd8884604e
 
-#### Results on _car16_ in **LaTOT**
+#### Results on _car16_ and _car26_ in **LaTOT**
 https://github.com/user-attachments/assets/d1e8edf1-12cf-4e5a-90d6-3a9a1aa5ebe8
+
+https://github.com/user-attachments/assets/1bc8c9f0-04fc-43fd-8342-b2cb6b5b8268
 
 #### Results on _person14_3_ and _wakeboard7_ in **UAV123@10fps**
 https://github.com/user-attachments/assets/31788942-cb11-43a7-b061-128f3ca02dd5
