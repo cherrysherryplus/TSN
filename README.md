@@ -12,4 +12,8 @@ The implementation is based on PySOT and SiamCAR. Questions about environment cr
 | --- | --- |
 | [百度网盘](https://pan.baidu.com/s/1UxK5qs9LSUMzgVcm3cSBhQ?pwd=chgr) | ~ |
 
+Some visualization of TSN along with Ground Truth annotations are provided. Since UAV20L and VisDrone2019 are too long to be visulaized due to their long-term tracking scenes, we only display tracking results of relatively-short videos from the other 3 datasets.
+
+<video src="vis_results/DTB70/Animal2" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+
 Since related paper has been submitted for peer review, codes will be fulfilled once the paper is accepeted.
