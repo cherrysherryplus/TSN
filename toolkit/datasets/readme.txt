@@ -1,0 +1,1 @@
+Only dtb.py, latot.py, uav10fps.py, uav20l.py, visdrone1.py and small90.py are ready to use, if your datasets directory are correctly configured

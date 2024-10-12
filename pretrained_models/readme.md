@@ -1,1 +1,1 @@
-resnet50.model
+resnet50.model  链接: https://pan.baidu.com/s/18mIYHzfu2PQpZjgb5orZ1g?pwd=5reg  提取码: 5reg
