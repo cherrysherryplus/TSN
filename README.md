@@ -1,4 +1,4 @@
-# TSN (Target signature network for small object tracking)
+# TSN (Target Signature Network for Small Object Tracking, EAAI 2024)
 This paper has proposed a tracker for single object tracking from view of UAVs. Excellent performance has been validated across 5 commonly adopted benchmarks, i.e _UAV123_10fps_, _UAV20L_, _DTB70_, _VisDrone2020_ and _LaTOT_test_. The training datasets contain _ImageNet DET, ImageNet VID, COCO, LaSOT, GOT-10K_.
 
 Three main contributions are attributed for TSN's outstanding tracking performance.
@@ -6,7 +6,7 @@ Three main contributions are attributed for TSN's outstanding tracking performan
 - Center Attention Module (**CAM**): Suppress background distractions and highlight object region for consistent tracking.
 - Dynamic Positive sample Definition Strategy (**DPDS**): Adjust positive sampling area subject to scale variation in the training stage for better convergence.
 
-The implementation is based on PySOT and SiamCAR. Questions about environment creation, testing and et. al, can be firstly referred to their official repositories and blogs, which we have found them helpful enough. Corresponding result files of TSN on different benchmarks have been uploaded. Codes of network definition and benchmark evaluation, together with related checkpoint and hyper-params, will be available soon. 
+The implementation is based on PySOT and SiamCAR. Questions about environment creation, testing and et. al, can be firstly referred to their official repositories and blogs, which we have found them helpful enough. Corresponding result files of TSN on different benchmarks have been uploaded. Codes of network definition, benchmark evaluation, related checkpoints and hyper-params are available at present. 
 
 | Result text files | Snapshots for TSN |
 | --- | --- |
@@ -29,4 +29,15 @@ https://github.com/user-attachments/assets/31788942-cb11-43a7-b061-128f3ca02dd5
 
 https://github.com/user-attachments/assets/c0752d31-98ae-4800-9f91-5fc01b4f20a7
 
-Since related paper has been submitted for peer review, codes will be fulfilled once the paper is accepeted.
+If you find this repository helpful, please consider citing this paper:
+```
+@article{liang2024target,
+  title={Target signature network for small object tracking},
+  author={Liang, Lei and Chen, Zhihua and Dai, Lei and Wang, Shouli},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={138},
+  pages={109445},
+  year={2024},
+  publisher={Elsevier}
+}
+```
